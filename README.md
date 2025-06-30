@@ -1,2 +1,2 @@
 # ghost-blog
-Pure Signal. 
+Pure Signal 
